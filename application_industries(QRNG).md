@@ -58,7 +58,5 @@
 
 15. **Gaming and Lotteries**:
     - Ensures outstanding randomness quality in online gaming and lotteries.
-    - Example: An online gaming platform integrating QRNG technology for fair and unbiased random number generation in virtual casino games.
-    - 
-[Guide to Quantum Random Number Generators](https://www.qnulabs.com/qrng-guide/#:~:text=Quantum%20random%20number%20generators%20(QRNG,essential%20part%20of%20quantum%20mechanics.)
+    - Example: An online gaming platform integrating QRNG technology for fair and unbiased random number generation in virtual casino games.[refrence of the qrng info ](https://www.qnulabs.com/qrng-guide)
 
