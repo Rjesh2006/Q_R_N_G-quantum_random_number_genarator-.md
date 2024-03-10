@@ -27,3 +27,4 @@ Random numbers play a crucial role in various fields such as science, technology
 ## Conclusion
 In summary, while both PRNGs and TRNGs have their uses, TRNGs are generally preferred for applications requiring higher levels of randomness and unpredictability. It's crucial to understand the trade-offs and vulnerabilities associated with each method when selecting a random number generation approach for specific applications.
 
+[Link to QRNG Application Industries Markdown File](https://github.com/Rjesh2006/Q_R_N_G-quantum_random_number_genarator-.md/blob/main/application_industries(QRNG).md)
